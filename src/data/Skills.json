@@ -1,0 +1,37 @@
+[
+	{
+		"name": "MongoDB",
+		"icon": "mongodb",
+		"definition": "A NoSQL Database"
+	},
+	{
+		"name": "Expressjs",
+		"icon": "express",
+		"definition": "Framework for Nodejs"
+	},
+	{
+		"name": "Reactjs",
+		"icon": "react",
+		"definition": "Library for building UI"
+	},
+	{
+		"name": "Nodejs",
+		"icon": "nodejs",
+		"definition": "Server-side Runtime Environment for JavaScript"
+	},
+	{
+		"name": "HTML",
+		"icon": "html",
+		"definition": "Markup language for the web"
+	},
+	{
+		"name": "CSS",
+		"icon": "css3",
+		"definition": "Styling language for the web"
+	},
+	{
+		"name": "PHP",
+		"icon": "php",
+		"definition": "Server-side programming language"
+	}
+]

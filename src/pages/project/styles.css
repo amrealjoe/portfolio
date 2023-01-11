@@ -1,0 +1,25 @@
+.rsis-container {
+	/*overflow: hidden  !important;*/
+	/*border: solid yellow  !important;*/
+	/*width: 300px !important;*/
+	/*height: 350px !important;*/
+	/*background-size: contain !important;*/
+}
+
+.rsis-container > * {
+}
+
+@media (max-width: 780px) {
+	.rsis-container {
+		width: 90vh !important
+	}
+	.rsis-container > * {
+		width: 50vh !important
+	}
+
+}
+
+.rsis-image {
+	/*border: solid green;
+	padding: 12px;*/
+}

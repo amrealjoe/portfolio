@@ -1,0 +1,27 @@
+[
+	{
+		"name":"My Portfolio Website",
+		"about": "laboriosam optio quod porro nulla aut incidunt libero? Tenetur, amet voluptas quas, laboriosam optio quod porro nulla aut incidunt libero? Tenetur, amet voluptas quas, laboriosam optio quod porro nulla aut incidunt libero? Tenetur, amet voluptas quas",
+		"purpose": "laboriosam optio quod porro nulla aut incidunt libero? Tenetur, amet voluptas quas, laboriosam optio quod porro nulla aut incidunt libero? Tenetur, amet voluptas quas, laboriosam optio quod porro nulla aut incidunt libero? Tenetur, amet voluptas quas",
+		"abouttechstack": "laboriosam optio quod porro nulla aut incidunt libero? Tenetur, amet voluptas quas, laboriosam optio quod porro nulla aut incidunt libero? Tenetur, amet voluptas quas, laboriosam optio quod porro nulla aut incidunt libero? Tenetur, amet voluptas quas,",
+		"techstack": [
+			{"name": "Vite", "icon": "vite"},
+			{"name": "Nodejs", "icon": "nodejs"},
+			{"name": "Reactjs", "icon": "react"},
+			{"name": "React Router DOM", "icon": "rrdom"},			
+			{"name": "JavaScript", "icon": "javascript"},			
+			{"name": "Styled Components", "icon": "javascript"}			
+		],
+		"screenshots": [
+			{"url": "/screenshots/yonblee/one.png"},
+			{"url": "/screenshots/yonblee/two.png"},
+			{"url": "/screenshots/yonblee/three.png"},
+			{"url": "/screenshots/yonblee/four.png"}
+		],
+		"url": [
+			{"demo": "demourl"},
+			{"repo": "repourl"}
+		]
+	}
+
+]
